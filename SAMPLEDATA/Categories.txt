@@ -1,0 +1,8 @@
+99115441-1b8b-49e4-a9a1-d7717549646b§Špangice
+20f9e1c4-fb79-48b0-be5c-d97b0ec68858§Housekeeping
+e35e7108-2ef2-46ff-a1f0-5f933c1dbc67§Tool
+39d931c5-b165-45b8-b4b7-bfdb1b7b6534§Toy
+e5cd9117-63d7-4fb3-a1ac-d43e23797610§Fruit
+9aa65746-7da2-4b43-8cca-e4df87ee3d9a§Vegetables
+448c4585-04b2-47c9-95c6-d702a8aa7fbf§Cheese
+5172dca0-1a10-4d30-9c64-1e2a636ddc8b§Human
